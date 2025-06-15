@@ -1,4 +1,4 @@
-# myapp
+# Gallery (flutter)
 
 A new Flutter project.
 
